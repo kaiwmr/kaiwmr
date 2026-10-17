@@ -24,6 +24,5 @@ A full-stack application that transforms unstructured recipe content from websit
 
 ### Currently
 
-- Completing my Bachelor's degree in Robotics
-- Preparing for a career in Software Engineering
+- Completing my Bachelor's degree in Robotics (March 2027)
 - Open to graduate and junior software engineering opportunities starting March 2027
