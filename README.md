@@ -13,7 +13,7 @@ I enjoy building backend services, processing pipelines, and applications that t
 
 ### Featured Project
 
-**[BiteWise – Automated Recipe Processing Platform](https://github.com/kaiwmr/smart-recipe-app)**
+**[BiteWise – Automated Recipe Processing Platform](https://github.com/kaiwmr/bitewise)**
 
 A full-stack application that transforms unstructured recipe content from websites and videos into validated, structured recipe data.
 
