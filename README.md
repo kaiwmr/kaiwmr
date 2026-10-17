@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Kai 👋
 
-<!--
-**kaiwmr/kaiwmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Robotics B.Eng. student at THWS, graduating in March 2027, with a focus on **Software Engineering, Backend Development, and Applied AI**.
 
-Here are some ideas to get you started:
+I enjoy building backend services, processing pipelines, and applications that turn complex inputs into useful outputs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- **Languages:** Python, C++, TypeScript
+- **Backend:** FastAPI, REST APIs, SQLAlchemy, Pydantic
+- **AI / ML:** OpenCV, Computer Vision, LLM APIs
+- **Tools:** Git, GitHub Actions, Pytest
+
+### Featured Project
+
+**[BiteWise – Automated Recipe Processing Platform](https://github.com/kaiwmr/smart-recipe-app)**
+
+A full-stack application that transforms unstructured recipe content from websites and videos into validated, structured recipe data.
+
+- Multi-stage processing pipeline with FastAPI
+- AI-powered transcription and structured data extraction
+- JWT authentication, role-based access control, and rate limiting
+- Automated backend testing with Pytest and GitHub Actions
+
+### Currently
+
+- Completing my Bachelor's degree in Robotics
+- Preparing for a career in Software Engineering
+- Open to graduate and junior software engineering opportunities starting March 2027
